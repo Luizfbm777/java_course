@@ -1,0 +1,1 @@
+This project is one of the first I carried out, taking the Java course with a focus on OOP, from professor Nélio Alves, on Udemy. This is a program that reads a certain product to be added to stock, along with its price and quantity of that product. The program also asks the user if he wants to add any more quantities of the item or even remove some quantities from stock.
